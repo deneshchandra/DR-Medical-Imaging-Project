@@ -14,7 +14,7 @@ This project is driven by two key motivations:
 
 
 <p align = "center">
-<img align="center" src="images/readme/dr_scan.gif" alt="Retinopathy GIF"/>
+<img align="center" src="images/readme/dr_scan.jpg" alt="Retinopathy"/>
 </p>
 
 
